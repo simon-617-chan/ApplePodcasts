@@ -18,6 +18,31 @@
     <itunes:category text="News"/>
     <itunes:image href="https://drive.usercontent.google.com/download?id=1JTXX5N4fNPpdxOWKH6PbTVS1HIXRlzfx&amp;export=download&amp;confirm=t"/>
     <item>
+      <title>早晨新聞摘要 2026年10月15日</title>
+      <description>2026-10-15早晨新聞摘要（廣東話）</description>
+      <pubDate>Thu, 15 Oct 2026 06:50:00 +0800</pubDate>
+      <guid isPermaLink="false">news-digest-2026-10-15-morning</guid>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1HWd0oiYUvg4DjRzUPLWbjzsznxN6yEBp&amp;export=download&amp;confirm=t" length="5508276" type="audio/mpeg"/>
+      <itunes:duration>344</itunes:duration>
+    </item>
+    <item>
+      <title>晚間新聞摘要 2026年10月14日</title>
+      <description>2026-10-14晚間新聞摘要（廣東話）</description>
+      <pubDate>Wed, 14 Oct 2026 18:00:00 +0800</pubDate>
+      <guid isPermaLink="false">news-digest-2026-10-14-evening</guid>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1LsVy4QgYWR9hz1HTt3zRulp3OXyuO_BV&amp;export=download&amp;confirm=t" length="4698996" type="audio/mpeg"/>
+      <itunes:duration>293</itunes:duration>
+    </item>
+    <item>
+      <title>早晨新聞摘要 2026年10月14日</title>
+      <description>2026-10-14早晨新聞摘要（廣東話）</description>
+      <pubDate>Wed, 14 Oct 2026 06:50:00 +0800</pubDate>
+      <guid isPermaLink="false">news-digest-2026-10-14-morning</guid>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1-7fRkHVDXxdpy47Ta8yvdovRi7fqQ7zY&amp;export=download&amp;confirm=t" length="8724660" type="audio/mpeg"/>
+      <itunes:duration>545</itunes:duration>
+    </item>
+    
+    <item>
       <title>晚間新聞摘要 2026年10月13日</title>
       <description>2026-10-13晚間新聞摘要（廣東話）</description>
       <pubDate>Tue, 13 Oct 2026 18:00:00 +0800</pubDate>
