@@ -14,6 +14,10 @@
 快啲撳訂閱啦，乖！</description>
     <language>zh-hk</language>
     <itunes:author>Simon</itunes:author>
+    <itunes:owner>
+      <itunes:name>Simon</itunes:name>
+      <itunes:email>simonchan@studio2sc.net</itunes:email>
+    </itunes:owner>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="News"/>
     <itunes:image href="https://drive.usercontent.google.com/download?id=1JTXX5N4fNPpdxOWKH6PbTVS1HIXRlzfx&amp;export=download&amp;confirm=t"/>
