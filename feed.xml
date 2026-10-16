@@ -22,6 +22,14 @@
     <itunes:category text="News"/>
     <itunes:image href="https://drive.usercontent.google.com/download?id=1JTXX5N4fNPpdxOWKH6PbTVS1HIXRlzfx&amp;export=download&amp;confirm=t"/>
     <item>
+      <title>晚間新聞摘要 2026年10月16日</title>
+      <description>2026-10-16晚間新聞摘要（廣東話）</description>
+      <pubDate>Fri, 16 Oct 2026 18:00:00 +0800</pubDate>
+      <guid isPermaLink="false">news-digest-2026-10-16-evening</guid>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1RY1pQMiA1p07pq3D5ZZASoQ_gmD3pMPr&amp;export=download&amp;confirm=t" length="4843572" type="audio/mpeg"/>
+      <itunes:duration>302</itunes:duration>
+    </item>
+    <item>
       <title>早晨新聞摘要 2026年10月16日</title>
       <description>2026-10-16早晨新聞摘要（廣東話）</description>
       <pubDate>Fri, 16 Oct 2026 06:50:00 +0800</pubDate>
