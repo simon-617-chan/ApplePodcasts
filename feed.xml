@@ -22,11 +22,21 @@
     <itunes:category text="News"/>
     <itunes:image href="https://drive.usercontent.google.com/download?id=1JTXX5N4fNPpdxOWKH6PbTVS1HIXRlzfx&amp;export=download&amp;confirm=t"/>
     <item>
+      <title>晚間新聞摘要 2026年10月22日</title>
+      <description>2026-10-22晚間新聞摘要（廣東話）</description>
+      <pubDate>Thu, 22 Oct 2026 18:00:00 +0800</pubDate>
+      <guid isPermaLink="false">news-digest-2026-10-22-evening</guid>
+      <link>https://simon-617-chan.github.io/ApplePodcasts/#news-digest-2026-10-22-evening</link>
+      <enclosure url="https://simon-617-chan.github.io/ApplePodcasts/audio/2026-10-22-evening.mp3" length="3823476" type="audio/mpeg"/>
+      <itunes:duration>238</itunes:duration>
+    </item>
+    <item>
       <title>晚間新聞摘要 2026年10月16日</title>
       <description>2026-10-16晚間新聞摘要（廣東話）</description>
       <pubDate>Fri, 16 Oct 2026 18:00:00 +0800</pubDate>
       <guid isPermaLink="false">news-digest-2026-10-16-evening</guid>
-      <enclosure url="https://drive.usercontent.google.com/download?id=1RY1pQMiA1p07pq3D5ZZASoQ_gmD3pMPr&amp;export=download&amp;confirm=t" length="4843572" type="audio/mpeg"/>
+      <link>https://simon-617-chan.github.io/ApplePodcasts/#news-digest-2026-10-16-evening</link>
+      <enclosure url="https://simon-617-chan.github.io/ApplePodcasts/audio/2026-10-16-evening.mp3" length="4843572" type="audio/mpeg"/>
       <itunes:duration>302</itunes:duration>
     </item>
     <item>
@@ -34,7 +44,8 @@
       <description>2026-10-16早晨新聞摘要（廣東話）</description>
       <pubDate>Fri, 16 Oct 2026 06:50:00 +0800</pubDate>
       <guid isPermaLink="false">news-digest-2026-10-16-morning</guid>
-      <enclosure url="https://drive.usercontent.google.com/download?id=1VoWKA_kh5OOjj_PERSDveNwxmduFcu44&amp;export=download&amp;confirm=t" length="11286132" type="audio/mpeg"/>
+      <link>https://simon-617-chan.github.io/ApplePodcasts/#news-digest-2026-10-16-morning</link>
+      <enclosure url="https://simon-617-chan.github.io/ApplePodcasts/audio/2026-10-16-morning.mp3" length="11286132" type="audio/mpeg"/>
       <itunes:duration>705</itunes:duration>
     </item>
     <item>
@@ -42,7 +53,8 @@
       <description>2026-10-15晚間新聞摘要（廣東話）</description>
       <pubDate>Thu, 15 Oct 2026 18:00:00 +0800</pubDate>
       <guid isPermaLink="false">news-digest-2026-10-15-evening</guid>
-      <enclosure url="https://drive.usercontent.google.com/download?id=1720thNoFtXMAPMSxKeY3N3c1bQZ9Xduk&amp;export=download&amp;confirm=t" length="4387380" type="audio/mpeg"/>
+      <link>https://simon-617-chan.github.io/ApplePodcasts/#news-digest-2026-10-15-evening</link>
+      <enclosure url="https://simon-617-chan.github.io/ApplePodcasts/audio/2026-10-15-evening.mp3" length="4387380" type="audio/mpeg"/>
       <itunes:duration>274</itunes:duration>
     </item>
     <item>
@@ -50,7 +62,8 @@
       <description>2026-10-15早晨新聞摘要（廣東話）</description>
       <pubDate>Thu, 15 Oct 2026 06:50:00 +0800</pubDate>
       <guid isPermaLink="false">news-digest-2026-10-15-morning</guid>
-      <enclosure url="https://drive.usercontent.google.com/download?id=1HWd0oiYUvg4DjRzUPLWbjzsznxN6yEBp&amp;export=download&amp;confirm=t" length="5508276" type="audio/mpeg"/>
+      <link>https://simon-617-chan.github.io/ApplePodcasts/#news-digest-2026-10-15-morning</link>
+      <enclosure url="https://simon-617-chan.github.io/ApplePodcasts/audio/2026-10-15-morning.mp3" length="5508276" type="audio/mpeg"/>
       <itunes:duration>344</itunes:duration>
     </item>
     <item>
@@ -58,7 +71,8 @@
       <description>2026-10-14晚間新聞摘要（廣東話）</description>
       <pubDate>Wed, 14 Oct 2026 18:00:00 +0800</pubDate>
       <guid isPermaLink="false">news-digest-2026-10-14-evening</guid>
-      <enclosure url="https://drive.usercontent.google.com/download?id=1LsVy4QgYWR9hz1HTt3zRulp3OXyuO_BV&amp;export=download&amp;confirm=t" length="4698996" type="audio/mpeg"/>
+      <link>https://simon-617-chan.github.io/ApplePodcasts/#news-digest-2026-10-14-evening</link>
+      <enclosure url="https://simon-617-chan.github.io/ApplePodcasts/audio/2026-10-14-evening.mp3" length="4698996" type="audio/mpeg"/>
       <itunes:duration>293</itunes:duration>
     </item>
     <item>
@@ -66,7 +80,8 @@
       <description>2026-10-14早晨新聞摘要（廣東話）</description>
       <pubDate>Wed, 14 Oct 2026 06:50:00 +0800</pubDate>
       <guid isPermaLink="false">news-digest-2026-10-14-morning</guid>
-      <enclosure url="https://drive.usercontent.google.com/download?id=1-7fRkHVDXxdpy47Ta8yvdovRi7fqQ7zY&amp;export=download&amp;confirm=t" length="8724660" type="audio/mpeg"/>
+      <link>https://simon-617-chan.github.io/ApplePodcasts/#news-digest-2026-10-14-morning</link>
+      <enclosure url="https://simon-617-chan.github.io/ApplePodcasts/audio/2026-10-14-morning.mp3" length="8724660" type="audio/mpeg"/>
       <itunes:duration>545</itunes:duration>
     </item>
     
@@ -75,7 +90,8 @@
       <description>2026-10-13晚間新聞摘要（廣東話）</description>
       <pubDate>Tue, 13 Oct 2026 18:00:00 +0800</pubDate>
       <guid isPermaLink="false">news-digest-2026-10-13-evening</guid>
-      <enclosure url="https://drive.usercontent.google.com/download?id=1aPcYINjA_GcXxBnAkwrEjlnRVmtMrAD8&amp;export=download&amp;confirm=t" length="4154676" type="audio/mpeg"/>
+      <link>https://simon-617-chan.github.io/ApplePodcasts/#news-digest-2026-10-13-evening</link>
+      <enclosure url="https://simon-617-chan.github.io/ApplePodcasts/audio/2026-10-13-evening.mp3" length="4154676" type="audio/mpeg"/>
       <itunes:duration>259</itunes:duration>
     </item>
     <item>
@@ -83,7 +99,8 @@
       <description>2026-10-13早晨新聞摘要（廣東話）</description>
       <pubDate>Tue, 13 Oct 2026 06:50:00 +0800</pubDate>
       <guid isPermaLink="false">news-digest-2026-10-13-morning</guid>
-      <enclosure url="https://drive.usercontent.google.com/download?id=14FMZr_q1EmNdlw1tdzaq6zwGxljUu8qi&amp;export=download&amp;confirm=t" length="12239412" type="audio/mpeg"/>
+      <link>https://simon-617-chan.github.io/ApplePodcasts/#news-digest-2026-10-13-morning</link>
+      <enclosure url="https://simon-617-chan.github.io/ApplePodcasts/audio/2026-10-13-morning.mp3" length="12239412" type="audio/mpeg"/>
       <itunes:duration>764</itunes:duration>
     </item>
     <item>
@@ -91,7 +108,8 @@
       <description>2026年10月12日晚間新聞摘要（廣東話）</description>
       <pubDate>Mon, 12 Oct 2026 18:00:00 +0800</pubDate>
       <guid isPermaLink="false">news-digest-2026-10-12-evening</guid>
-      <enclosure url="https://drive.usercontent.google.com/download?id=1F7WLTxxhkWISVhNwaoyu5GeLgTlq67G7&amp;export=download&amp;confirm=t" length="9001140" type="audio/mpeg"/>
+      <link>https://simon-617-chan.github.io/ApplePodcasts/#news-digest-2026-10-12-evening</link>
+      <enclosure url="https://simon-617-chan.github.io/ApplePodcasts/audio/2026-10-12-evening.mp3" length="9001140" type="audio/mpeg"/>
       <itunes:duration>562</itunes:duration>
     </item>
   </channel>
