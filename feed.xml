@@ -32,6 +32,15 @@
     <itunes:category text="News"/>
     <itunes:image href="https://simon-617-chan.github.io/ApplePodcasts/cover.jpg"/>
     <item>
+      <title>早晨新聞摘要 2026年10月25日</title>
+      <description>2026-10-25早晨新聞摘要（廣東話）</description>
+      <link>https://simon-617-chan.github.io/ApplePodcasts/#news-digest-2026-10-25-morning</link>
+      <pubDate>Sun, 25 Oct 2026 06:50:00 +0800</pubDate>
+      <guid isPermaLink="false">news-digest-2026-10-25-morning</guid>
+      <enclosure url="https://simon-617-chan.github.io/ApplePodcasts/audio/2026-10-25-morning.mp3" length="3923124" type="audio/mpeg"/>
+      <itunes:duration>245</itunes:duration>
+    </item>
+    <item>
       <title>晚間新聞摘要 2026年10月24日</title>
       <description>2026-10-24晚間新聞摘要（廣東話）</description>
       <link>https://simon-617-chan.github.io/ApplePodcasts/#news-digest-2026-10-24-evening</link>
